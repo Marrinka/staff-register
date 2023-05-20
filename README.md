@@ -1,10 +1,8 @@
 # Staff register
 
 
-A website with calorie calculator, interactive slider, pop-ups, timer and other elements animating the layout. 
-This project is divided into separate modules, some of which can be used as successful solutions in other projects.
+This is a website with DataBaze off staff, that allows to add new employee, choose ones, who will get a raise or a bonus, filter employees by salary or another status.
 
-### 🌐 [Site deployment](marrinka.github.io/healthy-diet/)
 
 ### Built With:
 
